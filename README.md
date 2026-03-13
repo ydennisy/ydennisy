@@ -26,7 +26,6 @@ Previously founded **AirGrid** (privacy-first audience segmentation, acquired by
 
 | Project | What |
 |---------|------|
-| **[Native](https://withnative.ai)** | MCP-first workspace — coordination substrate for AI agent teams |
 | **[Viable Systems](https://viablesystems.ai)** | Applied AI research lab for AI-native organisations |
 | **[Writing](https://viablesystems.ai/writing)** | Ideas on agent systems, organisational design & programmable enterprises |
 
