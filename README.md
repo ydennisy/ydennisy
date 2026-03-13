@@ -18,7 +18,7 @@
 
 Founder exploring what happens when software stops being a tool people operate — and starts being a system that understands context, makes decisions, and executes work.
 
-Previously founded **AirGrid** (privacy-first audience segmentation, acquired by MiQ). Now building **Native** — an MCP-first structured workspace and coordination substrate for AI agent teams.
+Previously founded **AirGrid** (privacy-first audience segmentation, acquired by MiQ). Now building **Viable Systems** — an applied AI research lab, focusing on the future of the workplace.
 
 ---
 
